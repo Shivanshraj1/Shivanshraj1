@@ -1,5 +1,5 @@
 # 💫 About Me:
-BTech CSE (AIML) | Full-stack & AI learner | Web3 & Crypto Enthusiast 🚀<br> I’m currently working on web apps, AI projects, and crypto experiments  <br> I’m looking to collaborate on hackathons, startups, open-source, and Web3 ideas
+BTech CSE (AIML) | Full-stack & AI learner | Web3 & Crypto Enthusiast <br> I’m currently working on web apps, AI projects, and crypto experiments  <br> I’m looking to collaborate on hackathons, startups, open-source, and Web3 ideas.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivanshrajput11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivansh-rajput-585b46188) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shivansh18759) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ShivanshRajput1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivansh.rajput.bij@gmail.com) 
