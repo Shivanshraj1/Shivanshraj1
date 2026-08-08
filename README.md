@@ -10,7 +10,7 @@ Open to Full-Stack, Software Engineering, and AI/ML internship opportunities.
 - [E-commerce FAQ Chatbot](https://github.com/Shivanshraj1/ecommerce-faq-chatbot/tree/main) - automates customer support using AI
 - [Language Translation Tool](https://github.com/Shivanshraj1/language-translation-tool/tree/main) - multilingual text translation with dark/light/system theme support
 
-### Other AI/ML Projects
+### AI/ML Projects
 
 - [Speech-to-Text Transcription](https://github.com/Shivanshraj1/speech-to-text-transcription/tree/main)
 - [Movie Recommendation System](https://github.com/Shivanshraj1/movie-recommendation-system/tree/main)
